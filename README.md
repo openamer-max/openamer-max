@@ -2,6 +2,8 @@
 
 **Schöpfer von OpenAmer — dem persönlichen KI-Assistenten für eine neue Ära.**
 
+🌐 **[openamer-max.github.io](https://openamer-max.github.io/)** — die offizielle OpenAmer-Website
+
 ## 🚀 OpenAmer
 
 OpenAmer ist ein **lokaler, privater KI-Assistent**, der direkt auf deinem Computer läuft:
@@ -20,5 +22,9 @@ OpenAmer ist ein **lokaler, privater KI-Assistent**, der direkt auf deinem Compu
 *«Eine neue Ära — in der Technik den Menschen dient.»*
 
 ## 📫 Links
-- ▶️ YouTube: [OpenAmer AGI & ASI](https://youtube.com/shorts/5eyYgu6jpd0)
-- 🐙 GitHub: [openamer/openamer](https://github.com/openamer/openamer)
+
+- 🌐 [Website](https://openamer-max.github.io/)
+- ▶️ [YouTube](https://youtube.com/shorts/5eyYgu6jpd0)
+- 🐙 [GitHub](https://github.com/openamer/openamer)
+- 📸 [Instagram](https://www.instagram.com/sacirovicamer/)
+- 🎵 [TikTok](https://www.tiktok.com/@amer.sacirovic)
