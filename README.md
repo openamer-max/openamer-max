@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://openamer-max.github.io/assets/banner.png" alt="OpenAmer — Dein persönlicher KI-Assistent. Lokal, privat, ehrlich." width="100%">
+</div>
+
+<div align="center">
 
 # OpenAmer
 
