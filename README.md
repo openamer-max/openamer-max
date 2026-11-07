@@ -8,7 +8,7 @@ Lokal. Privat. Ehrlich. Open Source.
 
 [![Website](https://img.shields.io/badge/Website-openamer--max.github.io-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://openamer-max.github.io/)
 [![Projekt](https://img.shields.io/badge/Quellcode-openamer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/openamer-max/openamer)
-[![Plattform](https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux-0ea5e9?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![Plattform](https://img.shields.io/badge/Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Android-0ea5e9?style=for-the-badge&logo=linux&logoColor=white)](#)
 
 </div>
 
