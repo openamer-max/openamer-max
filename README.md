@@ -71,3 +71,11 @@ Kein Chatbot, der nur redet. OpenAmer **führt aus** — auf deinem System, mit 
 <div align="center">
 <sub>© 2026 OpenAmer · Amer Sacirovic, Schweiz · Open Source</sub>
 </div>
+
+---
+
+## Kontakt
+
+Fragen, Fehlerberichte, Sponsoring: **openamer-max@proton.me**
+
+Unterstützen: [PayPal](https://www.paypal.com/qrcodes/p2pqrc/BVZD4HRJ9G6YG) · [Website](https://openamer-max.github.io/)
